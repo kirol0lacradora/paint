@@ -1,0 +1,28 @@
+h1
+{
+	color: peachpuff; 
+	font-size: 40px;
+}
+.bodyBackgorund {
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#myCanvas{
+    border-width: 10px;
+    background-color: lemonchiffon;
+    border-style: ridge;
+    border-color: peachpuff;
+}
+input{
+    margin-right: 20px;
+}
+button{
+    background-color: peachpuff;
+    border-radius: 30px;
+    border-color: lemonchiffon;
+    color: brown;
+    padding: 10px 32px;
+    font-size: 16px;
+}
